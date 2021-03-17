@@ -15,7 +15,7 @@
 
 ## 里程碑
 
-### [第一期](/content/no1.md)
+### [第一期](https://github.com/OfferKiller/OfferKiller/blob/main/content/no_1.md)
 
 ## 加入我们
 
